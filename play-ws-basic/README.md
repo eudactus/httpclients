@@ -1,0 +1,1 @@
+Basic play-ws project
